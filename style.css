@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    border: 0;
+}
+
+html{
+    background-color: antiquewhite;
+}
+
+input{
+    background-color: aqua;
+    font-size: 2rem;
+    margin: 10px
+}
+
+button{
+    margin-top: 20px;
+    font-size: 2em;
+    margin-left: 10px;
+}
+
+#exibicao{
+    font-family: 'Bebas Neue', cursive;
+    margin-top: 20px;
+    margin-left: 10px;
+    font-size: 2em;
+}
+
+
+
